@@ -14,7 +14,8 @@ Here you simply set the time until the registration time and time until draw, of
 
 example api request using body:
 
-```json {
+```json
+{
   "drawTime":"2",
   "registerCloseTime": "1"
 }
